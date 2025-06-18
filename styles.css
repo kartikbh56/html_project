@@ -1,0 +1,43 @@
+/* Base styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+/* Top Section */
+.top-section {
+  border: 1px solid #000;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+/* Image Section */
+.image-section img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Section headings */
+section h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+/* Links */
+a {
+  color: #000;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #555;
+}
+
+/* Trivia List */
+.trivia-section ol {
+  padding-left: 20px;
+}
